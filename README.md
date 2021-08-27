@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨🏾‍💻 Currently working on  Kotlin and Python.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Jetpack Compose
 - ✌🏾 Looking forward opportunities and collaboration related with other android app development.
 - 📫 I'm available to answer your android related questions on any platform.
 
