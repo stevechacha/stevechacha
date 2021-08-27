@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**stevechacha/stevechacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👨🏾‍💻 Currently working on  Kotlin and Python.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ✌🏾 Looking forward opportunities and collaboration related with other android app development.
+- 📫 I'm available to answer your android related questions on any platform.
+
+
+<center>
+  <table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=stevechacha&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevechacha&hide=html&layout=compact&theme=dark" /></td>
+  </tr>   
+    <tr>
+      <td><img width="400px" align="bottom" src="https://github-readme-stats.vercel.app/api/wakatime?username=SteveChacha&show_icons=true&theme=dark&layout=compact" /></td>
+    </tr>
+</table>
+</center>
 -->
+!>
