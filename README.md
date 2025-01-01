@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Steve Chacha
 
-- 👨🏾‍💻 I’m currently working with **Kotlin** and **Python**.
+- 👨🏾‍💻 I’m currently working with **Kotlin** and **Swift**.
 - ✌🏾 Looking forward to opportunities and collaborations in **Android app development**.
 - 💡 Passionate about **clean code**, **mobile app performance**, and **open-source contributions**.
-- 🎯 2024 Goals: **Contribute to open-source projects** and **mentor budding Android developers**.
+- 🎯 2025 Goals: **Contribute to open-source projects** and **mentor budding Android developers**.
 - 📫 Reach out with any Android-related questions on any platform.
 
 ---
