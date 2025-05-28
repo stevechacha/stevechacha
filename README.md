@@ -4,7 +4,6 @@
 - ✌🏾 Looking forward to opportunities and collaborations in **Android app development**.
 - 💡 Passionate about **clean code**, **mobile app performance**, and **open-source contributions**.
 - 🎯 2025 Goals: **Contribute to open-source projects** and **mentor budding Android developers**.
-- 📫 Reach out with any Android-related questions on any platform.
 
 ---
 
